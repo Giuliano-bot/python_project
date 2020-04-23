@@ -56,6 +56,6 @@ class instabot:
         
         
         
-mothBot = instabot('deathmoth123@gmail.com','98124812')
-mothBot.login('memesBR')
+mothBot = instabot('usermane','pass')
+mothBot.login('hashtag')
 
